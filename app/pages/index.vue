@@ -3,7 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxtpj
+        changed nuxtpj
       </h1>
       <h2 class="subtitle">
         sample nuxt.js projcet
@@ -70,3 +70,4 @@ export default {
   padding-top: 15px;
 }
 </style>
+
